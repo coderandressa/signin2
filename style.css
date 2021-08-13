@@ -54,7 +54,7 @@ form .input-container input {
 form .input-container input::placeholder {
     color: #818181;
 }
-
+ 
 svg {
     position: absolute;
     right: 20px;
